@@ -8,7 +8,7 @@ Data Presentation Options
 -------------------------
 
 - Plots
-  - Matplotlib 
+  - `Matplotlib <https://matplotlib.org/stable/index.html>`_
 - Tables
   - `Pandas <https://pandas.pydata.org/>`_
 
