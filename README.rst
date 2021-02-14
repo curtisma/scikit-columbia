@@ -4,17 +4,23 @@ scikit-columbia
 
 A technical report generator for communicating conclusions and supporting data in a concise and pythonic manner.
 
-Data Presentation Options:
+Data Presentation Options
+-------------------------
 
-* matplotlib Plots
+* Plots
+  * Matplotlib 
 * Tables
+  * `Pandas <https://pandas.pydata.org/>`_
 
-Supports multiple report output formats:
+Output Formats
+--------------
+
+Supports presenting reports in multiple output formats:
 
 * PPTX
 * PDF
-* HTML
 * XLSX
+* Qt GUI
 
 Origin of the Name
 ==================
@@ -43,6 +49,10 @@ Development
 Architecture
 ------------
 A model-view-controller (MVC) architecture is used for the core classes.
+
+Extension
+---------
+scikit-columbia is implemented as a namespace package to enable easy extension by dependents.
 
 Related Projects
 ----------------
