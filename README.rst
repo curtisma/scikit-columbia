@@ -4,8 +4,8 @@ scikit-columbia
 
 A technical report generator for communicating conclusions and supporting data in a concise and pythonic manner.
 
-Data Presentation Options
--------------------------
+Data Presentation
+-----------------
 
 - Plots
   - `Matplotlib <https://matplotlib.org/stable/index.html>`_
