@@ -2,7 +2,7 @@
 scikit-columbia
 ===============
 
-A technical report generator for communicating data and conclusions in a concise and pythonic manner.
+A technical report generator for communicating conclusions and supporting data in a concise and pythonic manner.
 
 Data Presentation Options:
 
@@ -18,7 +18,11 @@ Supports multiple report output formats:
 
 Origin of the Name
 ==================
-The library is named in honor of the space shuttle columbia.  It was inspired in part by an article about how part of the cause of the tragedy was a poorly designed technical report.  "`Power Point Does Rocket Science <https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB>`_"
+The library is named in honor of the space shuttle columbia.  It was inspired by articles on how part of the cause of the tragedy was a poorly presented technical report.  
+
+- `Power Point Does Rocket Science <https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB>`_
+- `Death by PowerPoint: the slide that killed seven people <https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx>`
+- `Why Edward Tufte is Wrong <https://eslide.com/why-edward-tufte-is-wrong/>`_
 
 Installation
 ============
@@ -39,3 +43,15 @@ Development
 Architecture
 ------------
 A model-view-controller (MVC) architecture is used for the core classes.
+
+Related Projects
+----------------
+- `ReportLab <https://www.reportlab.com/>`_
+  - `PollyReports <https://pythonhosted.org/PollyReports/tutorial.html>`_
+- `POD <http://appyframe.work/pod.html>`_
+- `PythonReports <http://pythonreports.sourceforge.net/index.shtml>`_
+- `Datapane <https://datapane.com/>`_
+
+Scikit
+------
+This `scikit <https://www.scipy.org/scikits.html>`_ supports the presentation of data from `scipy projects <https://www.scipy.org/index.html>`_.
