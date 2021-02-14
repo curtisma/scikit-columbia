@@ -4,7 +4,11 @@ scikit-columbia
 
 A technical report generator for communicating data and conclusions in a concise and pythonic manner.
 
-Supports 
+Data Presentation Options
+
+* matplotlib Plots
+* Tables
+* 
 
 
 Supports multiple report output formats:
@@ -12,7 +16,7 @@ Supports multiple report output formats:
 * PPTX
 * PDF
 * HTML
-* 
+* XLSX
 
 Origin of the Name
 ==================
