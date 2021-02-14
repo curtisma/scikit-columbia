@@ -19,3 +19,23 @@ Supports multiple report output formats:
 Origin of the Name
 ==================
 The library is named in honor of the space shuttle columbia.  It was inspired in part by an article about how part of the cause of the tragedy was a poorly designed technical report.  "`Power Point Does Rocket Science <https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB>`_"
+
+Installation
+============
+It can be installed as a package from either conda-forge or pip.  It can also be installed from source for development and extension.
+
+Conda
+-----
+
+PIP
+---
+
+Source
+------
+
+Development
+===========
+
+Architecture
+------------
+A model-view-controller (MVC) architecture is used for the core classes.
