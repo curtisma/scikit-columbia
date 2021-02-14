@@ -7,10 +7,10 @@ A technical report generator for communicating conclusions and supporting data i
 Data Presentation Options
 -------------------------
 
-* Plots
-  * Matplotlib 
-* Tables
-  * `Pandas <https://pandas.pydata.org/>`_
+- Plots
+  - Matplotlib 
+- Tables
+  - `Pandas <https://pandas.pydata.org/>`_
 
 Output Formats
 --------------
