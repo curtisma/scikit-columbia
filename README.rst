@@ -6,14 +6,18 @@ A technical report generator for communicating conclusions and supporting data i
 
 Data Presentation
 -----------------
+scikit-columbia can include data from many different sources.
 
 - Plots
+
   - `Matplotlib <https://matplotlib.org/stable/index.html>`_
+
 - Tables
+
   - `Pandas <https://pandas.pydata.org/>`_
 
-Output Formats
---------------
+Presentation Formats
+--------------------
 
 Supports presenting reports in multiple output formats:
 
@@ -27,7 +31,7 @@ Origin of the Name
 The library is named in honor of the space shuttle columbia.  It was inspired by articles on how part of the cause of the tragedy was a poorly presented technical report.  
 
 - `Power Point Does Rocket Science <https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB>`_
-- `Death by PowerPoint: the slide that killed seven people <https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx>`
+- `Death by PowerPoint: the slide that killed seven people <https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx>`_
 - `Why Edward Tufte is Wrong <https://eslide.com/why-edward-tufte-is-wrong/>`_
 
 Installation
