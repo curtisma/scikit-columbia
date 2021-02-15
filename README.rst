@@ -22,8 +22,8 @@ Presentation Formats
 Supports presenting reports in multiple output formats:
 
 * PPTX
-* PDF
 * XLSX
+* PDF
 * Qt GUI
 
 Origin of the Name

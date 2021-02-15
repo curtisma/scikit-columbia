@@ -1,3 +1,9 @@
-class DataPanel:
+from .base_element import BaseElement
+
+
+class DataPanel(BaseElement):
+    """
+    Presents a set of data
+    """
     def __init__(self):
         pass
