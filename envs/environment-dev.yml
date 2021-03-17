@@ -1,0 +1,10 @@
+name: dev
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy=1.9.*
+  - matplotlib=3.3.*
+  - python-pptx=0.6.*
+  - openpyxl=3.0.*
